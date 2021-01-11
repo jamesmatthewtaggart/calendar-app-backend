@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.cwd": "${workspaceFolder}/calendar_app",
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true
+}
