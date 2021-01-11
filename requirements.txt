@@ -5,3 +5,4 @@ django-filter
 black
 gunicorn
 django-heroku
+django-cors-headers
